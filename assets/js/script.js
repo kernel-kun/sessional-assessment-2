@@ -20,7 +20,7 @@ const fetchImgs = () => {
             const response = JSON.parse(xhr.responseText);
             // console.log(response);
             let output = "";
-            for (let i = 0; i < 10; i++) {
+            for (let i = 0; i < 25; i++) {
                 output += `
                     <div class="col">
                         <div class="card h-100">

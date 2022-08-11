@@ -21,6 +21,18 @@ body {
 }
 body .nav__section {
   font-weight: 500;
+  margin-bottom: 56px;
+}
+body .ajax_dom {
+  padding: 2em;
+}
+body .card {
+  border-radius: 0em;
+  border: 2px solid black;
+}
+body .card-img-top {
+  padding: 0.6em 0.6em 0em;
+  border-radius: 1.5em;
 }
 
 .landing {
