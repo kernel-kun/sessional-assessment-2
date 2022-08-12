@@ -21,7 +21,11 @@ body {
 }
 body .nav__section {
   font-weight: 500;
-  margin-bottom: 56px;
+}
+body .landing_section {
+  height: 100vh;
+  padding-top: 9.5rem;
+  padding-bottom: 5rem;
 }
 body .ajax_dom {
   padding: 2em;
@@ -30,12 +34,7 @@ body .card {
   border-radius: 0em;
   border: 2px solid black;
 }
-body .card-img-top {
+body .card .card-img-top {
   padding: 0.6em 0.6em 0em;
   border-radius: 1.5em;
-}
-
-.landing {
-  height: 100vh;
-  margin-top: 60px;
 }/*# sourceMappingURL=styles.css.map */
