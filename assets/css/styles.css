@@ -23,9 +23,8 @@ body .nav__section {
   font-weight: 500;
 }
 body .landing_section {
-  height: 100vh;
   padding-top: 9.5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
 }
 body .ajax_dom {
   padding: 2em;

@@ -32,7 +32,8 @@
 
 ## Bugs
 
-- [] svg & ajax-container overlap
+- [x] landing-logo.svg overflowing outside container
+- [x] svg & ajax-container overlap
 
 <hr>
 
