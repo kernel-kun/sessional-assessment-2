@@ -30,6 +30,12 @@
 
 <hr>
 
+## Bugs
+
+- [] svg & ajax-container overlap
+
+<hr>
+
 ## Libs
 
 - Bootstrap
